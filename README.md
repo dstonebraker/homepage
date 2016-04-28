@@ -1,6 +1,6 @@
 # homepage
 A simple bootstrap homepage
 
-A simple homepage for www.dalestonebraker.com
+A simple homepage for Boilerplate and Twitter Bootstrap for maximum cross browser compatibility.
 
-To showcase work and act as a hub for projects and work
+
